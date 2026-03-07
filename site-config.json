@@ -1,0 +1,12 @@
+{
+  "name": "HeadyMCP",
+  "tagline": "Master Control Program",
+  "description": "The nerve center of the Heady ecosystem — 31 MCP tools, autonomous orchestration, zero-latency AI dispatch.",
+  "accent": "#f59e0b",
+  "features": [
+    {"icon": "🎮", "title": "31 MCP Tools", "desc": "Complete tool suite for AI orchestration"},
+    {"icon": "⚡", "title": "Zero-Latency Dispatch", "desc": "Sub-millisecond tool routing"},
+    {"icon": "🧠", "title": "Autonomous Orchestration", "desc": "Self-organizing AI node coordination"},
+    {"icon": "🔗", "title": "Universal Connect", "desc": "Bridges Claude, GPT, Gemini, and Groq"}
+  ]
+}
